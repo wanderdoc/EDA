@@ -1,7 +1,3 @@
----
-title: "Readme"
-output: html_document
----
 
 Each of R-files repeats the code to extract the necessary data set from the originary big data file (Lines 1 to 63 in the R-Studio editor).
 
